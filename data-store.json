@@ -1,0 +1,58 @@
+{
+  "users": {
+    "sumanthkurakula": {
+      "passwordHash": "sumanth@2007",
+      "profile": {
+        "name": "Sumanth Kurakula",
+        "email": "kurakulasumanthkalyan2007@gmail.com",
+        "state": "Andhra Pradesh",
+        "district": "kakinada",
+        "village": "pithapuram",
+        "phone": "6302329359",
+        "pincode": "533450",
+        "soilType": "Black Cotton Soil (Regur)",
+        "soilDescription": "Deep clay soil that swells when wet and cracks when dry. Highly fertile with excellent water retention.",
+        "soilProperties": {
+          "nitrogen": "Medium",
+          "phosphorus": "Low",
+          "potassium": "High",
+          "pH": "7.5 - 8.5",
+          "moisture": "Very High"
+        }
+      }
+    }
+  },
+  "predictions": [
+    {
+      "id": "li4tv30mr",
+      "username": "sumanthkurakula",
+      "inputs": {
+        "nitrogen": 400,
+        "phosphorus": 40,
+        "potassium": 270,
+        "temperature": 28,
+        "humidity": 75,
+        "pH": 8,
+        "rainfall": 120,
+        "soilType": "Black Cotton Soil (Regur)",
+        "district": "kakinada",
+        "state": "Andhra Pradesh"
+      },
+      "recommendedCrop": "Cotton",
+      "geminiVerdict": "🌱 **[AI Backup Intelligence]** We have analyzed your soil chemical and location profile for **pithapuram, kakinada, Andhra Pradesh**:\n\n1. **Best Recommended Crop**: **Cotton** is the most optimal fit for your N-P-K concentrations (400-40-270) and moisture signature (120 mm).\n2. **Meteorological & Market Justification**: Historical agricultural models for kakinada indicate robust yields and consistent market prices. Current climate forecasts align perfectly with this crop's growth cycle.\n3. **Optimized Sowing & Soil Action Steps**:\n   - **Soil Preparation**: Ensure deep tilling to break down organic blocks and enhance roots' aeration.\n   - **Fertilization**: Use balanced micronutrient applications based on local clay/silt concentrations.\n   - **Irrigation**: Dig perimeter runoff channels to guard against temporary waterlogging if heavy rains occur.",
+      "geminiCrop": "Cotton",
+      "groundingSources": [
+        {
+          "title": "India Meteorological Department (IMD) - Regional Forecasting Center",
+          "url": "https://mausam.imd.gov.in"
+        },
+        {
+          "title": "National Portal of India - Agricultural Directory Services",
+          "url": "https://www.india.gov.in"
+        }
+      ],
+      "createdAt": "2026-07-06T16:17:05.932Z"
+    }
+  ],
+  "chats": {}
+}
