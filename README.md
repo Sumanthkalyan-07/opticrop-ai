@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+**AI-ML-and-GEN-AI-Track-Project-Template**
 
-# Run and deploy your AI Studio app
+**Repository Structure**
 
-This contains everything you need to run your app locally.
+1.Brainstorming & Ideation
 
-View your app in AI Studio: https://ai.studio/apps/1ac0147b-6f07-4bda-ae1a-d32320d5814b
+2.Requirement Analysis
 
-## Run Locally
+3.Project Design Phase
 
-**Prerequisites:**  Node.js
+4.Project Planning Phase
 
+5.Project Development Phase
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+6.Project Testing
+
+7.Project Documentation
+
+8.Project Demonstration
+
+Replace the placeholder files with your team's project deliverables.
